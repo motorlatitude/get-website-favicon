@@ -1,5 +1,5 @@
 const getFavicons = require('./')
-const url = 'dftba.com'
+const url = 'open.ac.uk'
 getFavicons(url).then(result=>{
     console.log(result)
 }).catch(error=>{
