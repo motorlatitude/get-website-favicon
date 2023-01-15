@@ -1,10 +1,11 @@
 {
   "name": "get-website-favicon",
   "version": "0.0.7",
-  "description": "get the favicons url from any website",
+  "description": "Get the favicons url from any website",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "mocha test",
+    "build": "npm pack --pack-destination ./"
   },
   "keywords": [
     "favicon"
