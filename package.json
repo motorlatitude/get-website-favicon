@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha test",
-    "build": "npm pack --pack-destination ./"
+    "build": "npm pack --pack-destination ./build/"
   },
   "keywords": [
     "favicon"
