@@ -4,12 +4,15 @@
   "description": "Get the favicons url from any website",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test",
-    "build": "npm pack --pack-destination ./build/"
+    "test": "mocha test"
   },
   "keywords": [
     "favicon"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/motorlatitude/get-website-favicon.git"
+  },
   "author": "pigz",
   "license": "MIT",
   "devDependencies": {
