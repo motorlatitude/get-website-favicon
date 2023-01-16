@@ -1,5 +1,5 @@
 {
-  "name": "get-website-favicon",
+  "name": "@motorlatitude/get-website-favicon",
   "version": "0.0.7",
   "description": "Get the favicons url from any website",
   "main": "index.js",
